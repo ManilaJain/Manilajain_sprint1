@@ -7,7 +7,7 @@ using System.Web.Http.Results;
 
 namespace ProjectManagement.Api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/Login")]
     [ApiController]
     public class LoginController : ControllerBase
     {
