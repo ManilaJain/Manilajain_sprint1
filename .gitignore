@@ -25,7 +25,6 @@ ProjectManagement.Api/.vs/ProjectManagement.Api/v16/TestStore/0/003.testlog
 *.v2
 ProjectManagement.Api/XUnitTestProject/bin/Debug/netcoreapp3.1/ProjectManagement.Api.deps.json
 ProjectManagement.Api/XUnitTestProject/bin/Debug/netcoreapp3.1/XUnitTestProject.deps.json
-*.json
 ProjectManagement.Api/XUnitTestProject/bin/Debug/netcoreapp3.1/ProjectManagement.Api.exe
 ProjectManagement.Api/XUnitTestProject/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
 ProjectManagement.Api/XUnitTestProject/obj/Debug/netcoreapp3.1/XUnitTestProject.AssemblyInfo.cs
